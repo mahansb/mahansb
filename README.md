@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm mahan, a front end developer
+Hi, I'm Mahan, a front end developer building responsive web interfaces.
 
 
 ## 🌐 Socials:
